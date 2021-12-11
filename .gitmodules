@@ -1,0 +1,9 @@
+[submodule "hack21-client"]
+	path = hack21-client
+	url = https://github.com/Anirudh4583/hack21-client.git
+[submodule "hack21-server"]
+	path = hack21-server
+	url = https://github.com/Anirudh4583/hack21-server.git
+[submodule "hack21-android"]
+	path = hack21-android
+	url = https://github.com/Anirudh4583/hack21-android.git
